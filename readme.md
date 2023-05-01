@@ -24,7 +24,7 @@ Neox is a landing page project created using HTML, CSS, and Tailwind CSS. It is 
 
 ## Live Demo
 
-View the live demo of the Neox landing page [here](https://example.com).
+View the live demo of the Neox landing page [here](https://neox-landing-page.netlify.app/).
 
 <br>
 
