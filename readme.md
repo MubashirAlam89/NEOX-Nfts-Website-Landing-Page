@@ -41,7 +41,5 @@ The following resources were used in the creation of this project:
 
 - [Tailwind CSS](https://tailwindcss.com/)
 
-<br>
 <hr>
-
-made with &#128151; by "Mubashir Alam".
+made with &#128151; by <a href="https://www.mubashiralam.com">"Mubashir Alam"</a>.
